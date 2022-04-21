@@ -69,11 +69,12 @@ h3{
 }
 .gif{
     
-   height:1000px;
+  height:150px;
   width: 28%;
   float: left;
   margin-right: 30px;
   border-radius: 70%;
+}
 }
 /* .profile{
     background-color: blueviolet;
