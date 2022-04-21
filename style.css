@@ -68,9 +68,12 @@ h3{
    float: right ;       /* wrap around text */
 }
 .gif{
-  width: 25%;
+    
+   height:150px;
+  width: 28%;
   float: left;
   margin-right: 30px;
+  border-radius: 50%;
 }
 /* .profile{
     background-color: blueviolet;
